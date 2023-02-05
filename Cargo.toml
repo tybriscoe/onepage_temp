@@ -1,8 +1,8 @@
 [package]
-name = "eframe_template"
+name = "one-page-template"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
-edition = "2021"
+authors = ["Ty Briscoe <tybriscoet@gmail.com>"]
+edition = "2023"
 rust-version = "1.65"
 
 
