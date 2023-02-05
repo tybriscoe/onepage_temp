@@ -1,8 +1,8 @@
 [package]
-name = "one-page-template"
+name = "onepage_temp"
 version = "0.1.0"
 authors = ["Ty Briscoe <tybriscoet@gmail.com>"]
-edition = "2023"
+edition = "2021"
 rust-version = "1.65"
 
 

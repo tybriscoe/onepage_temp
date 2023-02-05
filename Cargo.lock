@@ -584,19 +584,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "eframe_template"
-version = "0.1.0"
-dependencies = [
- "console_error_panic_hook",
- "eframe",
- "egui",
- "serde",
- "tracing-subscriber",
- "tracing-wasm",
- "wasm-bindgen-futures",
-]
-
-[[package]]
 name = "egui"
 version = "0.20.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1261,6 +1248,19 @@ name = "once_cell"
 version = "1.16.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "86f0b0d4bf799edbc74508c1e8bf170ff5f41238e5f8225603ca7caaae2b7860"
+
+[[package]]
+name = "onepage_temp"
+version = "0.1.0"
+dependencies = [
+ "console_error_panic_hook",
+ "eframe",
+ "egui",
+ "serde",
+ "tracing-subscriber",
+ "tracing-wasm",
+ "wasm-bindgen-futures",
+]
 
 [[package]]
 name = "overload"
